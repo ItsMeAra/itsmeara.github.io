@@ -3,6 +3,6 @@ title: "Welcome to Jekyll!"
 published: false
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is a test.
 
 I hope you like it!
